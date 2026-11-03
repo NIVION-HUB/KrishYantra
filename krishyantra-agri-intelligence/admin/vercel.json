@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_MAIN_API_URL": "https://krishyantra.vercel.app",
+    "NEXT_PUBLIC_ADMIN_SECRET": "aasra-admin-2026"
+  }
+}
